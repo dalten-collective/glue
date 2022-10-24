@@ -1,0 +1,9 @@
+:~  title+'Glue'
+    info+'Extend your agents.'
+    color+0x81.11c9
+    site+/apps/glue
+    base+'glue'
+    version+[0 0 1]
+    website+'https://dalten.org/'
+    license+'AGPL'
+==
